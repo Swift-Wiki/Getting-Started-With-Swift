@@ -27,7 +27,7 @@ High Level Overviews
 - [ ] [Getting Started with Swift](https://drewag.me/posts/2014/07/13/getting-started-with-swift) – A quick overview of core concepts you need to learn.
 
 ### Videos
-– [ ] [Swift WWDC Lectures](https://developer.apple.com/videos/developer-tools/swift/) – Vast amount of lectures directly from Apple developers
+- [ ] [Swift WWDC Lectures](https://developer.apple.com/videos/developer-tools/swift/) – Vast amount of lectures directly from Apple developers
 - [ ] [Introduction to iOS 11, Xcode 9 and Swift 4](https://www.youtube.com/watch?v=71pyOB4TPRE) – The intro video to the Stanford's beginner video course.
 
 Topics
