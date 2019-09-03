@@ -53,4 +53,4 @@ This is the most common reason people want to learn Swift; they want to create i
 Contributing
 ------------
 
-We are very much looking for contributions to improve this resource for the Swift community. View our [contributing page](https://github.com/Swift-Wiki/Getting-Started-With-Swift/blob/master/CONTRIBUTING.md) for more information.
+We are very much looking for contributions to improve this resource for the Swift community. View our [contributing page](CONTRIBUTING.md) for more information.
