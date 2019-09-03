@@ -22,6 +22,7 @@ The list of resources for each of these topics are never going to be exaustive. 
 - [Debugging](#debugging)
 - [Design Patterns](#design-patterns)
 - [Efficiency](#efficiency)
+- [Further Learning](#further-learning)
 
 High Level Overviews
 ---------------
@@ -132,3 +133,9 @@ Efficiency
 
 Sometimes at odds with writing maintainable code, it can also be important to write fast and efficient code. Learn about concepts like Big O notation to evaluate the computational complexity of your code.
 
+Further Learning
+----------------
+
+To go beyond these invidual topics, it can be a great learning experience to look at real world code bases, especially open source ones.
+
+- [ ] [Decree](https://github.com/drewag/decree) – Make HTTP requests in a clear and type safe way by declaring web services and endpoints on iOS, macOS, and Linux.
