@@ -10,13 +10,13 @@ UIKit
 
 UIKit is a very large framework at this point. Here are the various components you will want to learn.
 
-# Musts
+### Musts
 
 - Interface Development – Creating what the user sees and interacts with on the screen
 - Navigation – Allowing the user to navigate between different parts of your app
 - App Life Cycle - Managing the starting, stopping, and much more of your app
 
-# Other
+### Other
 
 - Web Requests – Sending/getting data to/from the interenet
 - Camera – Taking pictures and/or video using the devices camera
