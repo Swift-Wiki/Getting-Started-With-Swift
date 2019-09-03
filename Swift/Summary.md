@@ -3,6 +3,8 @@ Learning Swift
 
 Swift is a language we use to give a computer instructions. Once you know at least its basics, you can leverage many of the available frameworks and technologies to create incredible things.
 
+**Don't assume just because you've been able to use Swift to develop in the past, that you know everything there is to know.**
+
 **Topics**
 
 The list of resources for each of these topics are never going to be exaustive. Take it upon yourself to do your own research (through a good old-fashioned internet search) on top of the resources we have listed here.
