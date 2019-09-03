@@ -126,6 +126,7 @@ These are just a tiny fraction of the patterns out there.
 
 ### Creational Patterns
 - [Singleton](https://en.wikipedia.org/wiki/Singleton_pattern) – Restrict the instanation of a type to a single instance.
+- [Singletons and Shared Instances in Swift](https://drewag.me/posts/2019/09/03/singletons-and-shared-instances-in-swift) – Discussion about these two patterns use in Swift enviroments.
 - [Factory](https://en.wikipedia.org/wiki/Factory_(object-oriented_programming)) – An object for creating other objects.
 
 Efficiency
