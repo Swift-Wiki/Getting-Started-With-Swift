@@ -80,7 +80,21 @@ We can't only program for the best-case scenario. We must be able to produce and
 
 ### Design Patterns
 
-Programming is more than just getting the job done. It is an art and a science. Learn how to write more reliable and maintainable code.
+Programming is more than just getting the job done. It is an art and a science. Learn how to write more reliable and maintainable code. These techniques apply to all programming languages.
+
+These are just a tiny fraction of the patterns out there.
+
+**Behavioral**
+- [Iterator](https://en.wikipedia.org/wiki/Iterator_pattern) – Traverse a container to access its elements.
+- [Observer](https://en.wikipedia.org/wiki/Observer_pattern) – Ability for one object to be notified of the changes to another.
+
+**Structural**
+- [Composite](https://en.wikipedia.org/wiki/Composite_pattern) – Group of objects treated as a single instance of the same object.
+- [Model View Controller](https://developer.apple.com/library/archive/documentation/General/Conceptual/CocoaEncyclopedia/Model-View-Controller/Model-View-Controller.html)
+
+**Creational Patterns**
+- [Singleton](https://en.wikipedia.org/wiki/Singleton_pattern) – Restrict the instanation of a type to a single instance.
+- [Factory](https://en.wikipedia.org/wiki/Factory_(object-oriented_programming)) – An object for creating other objects.
 
 ### Efficiency
 
