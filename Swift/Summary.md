@@ -7,28 +7,28 @@ High Level Overviews
 ---------------
 
 ### Documentation
-- [Swift.org](https://swift.org/getting-started/) – The creators of Swift have put together an enormous amount of great documentation themselves.
+- [ ] [Swift.org](https://swift.org/getting-started/) – The creators of Swift have put together an enormous amount of great documentation themselves.
     - [Guided Tour](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html) – A quick tour through the language
     - [The Basics](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html) – A much more detailed look through the vast majority of Swift features.
     - [API Design Guidlines](https://swift.org/documentation/api-design-guidelines/) – Guidlines to write Swift code like everyone else in the community so you can collaborate/ask questions much more easily.
 
 ### Books
-- [The Swift Programming Language](https://itunes.apple.com/us/book-series/swift-programming-series/id888896989?mt=11) – A book Apple wrote to learn Swift.
-- [Learning Swift - Second Edition](https://www.amazon.com/Learning-Swift-Second-Andrew-Wagner/dp/1785887513) – A little out dated, but still a valuable introduction into the most important parts of Swift and good programming practices.
-- [Swift Programming: The Big Nerd Ranch Guide](https://www.bignerdranch.com/books/swift-programming-the-big-nerd-ranch-guide-second-edition/) – Whether you’re new to programming or an experienced developer, Swift Programming: The Big Nerd Ranch Guide will teach you what you need to know about Apple’s newest language.
+- [ ] [The Swift Programming Language](https://itunes.apple.com/us/book-series/swift-programming-series/id888896989?mt=11) – A book Apple wrote to learn Swift.
+- [ ] [Learning Swift - Second Edition](https://www.amazon.com/Learning-Swift-Second-Andrew-Wagner/dp/1785887513) – A little out dated, but still a valuable introduction into the most important parts of Swift and good programming practices.
+- [ ] [Swift Programming: The Big Nerd Ranch Guide](https://www.bignerdranch.com/books/swift-programming-the-big-nerd-ranch-guide-second-edition/) – Whether you’re new to programming or an experienced developer, Swift Programming: The Big Nerd Ranch Guide will teach you what you need to know about Apple’s newest language.
 
 ### If you have an iPad
-- [Swift Playgrounds](https://www.apple.com/swift/playgrounds/) – An iPad app full of tutorials for learning Swift
+- [ ] [Swift Playgrounds](https://www.apple.com/swift/playgrounds/) – An iPad app full of tutorials for learning Swift
 
 ## If you have an iPhone
-- [Unwrap](https://apps.apple.com/us/app/unwrap/id1440611372) – App to learn Swift right on  your iPhone
+- [ ] [Unwrap](https://apps.apple.com/us/app/unwrap/id1440611372) – App to learn Swift right on  your iPhone
 
 ### Blogs
-- [Getting Started with Swift](https://drewag.me/posts/2014/07/13/getting-started-with-swift) – A quick overview of core concepts you need to learn.
+- [ ] [Getting Started with Swift](https://drewag.me/posts/2014/07/13/getting-started-with-swift) – A quick overview of core concepts you need to learn.
 
 ### Videos
-– [Swift WWDC Lectures](https://developer.apple.com/videos/developer-tools/swift/) – Vast amount of lectures directly from Apple developers
-- [Introduction to iOS 11, Xcode 9 and Swift 4](https://www.youtube.com/watch?v=71pyOB4TPRE) – The intro video to the Stanford's beginner video course.
+– [ ] [Swift WWDC Lectures](https://developer.apple.com/videos/developer-tools/swift/) – Vast amount of lectures directly from Apple developers
+- [ ] [Introduction to iOS 11, Xcode 9 and Swift 4](https://www.youtube.com/watch?v=71pyOB4TPRE) – The intro video to the Stanford's beginner video course.
 
 Topics
 ------------
@@ -50,6 +50,9 @@ The air traffic control of information through our programs. We do this with con
 ### Optionals
 
 Sometimes we want our variables to be able to store the concept of “nothing” instead of “something”.
+
+- [ ] [What is an Optional in Swift](https://drewag.me/posts/2014/07/05/what-is-an-optional-in-swift)
+- [ ] [Uses for Implicitly Unwrapped Optionals](https://drewag.me/posts/2014/07/05/uses-for-implicitly-unwrapped-optionals-in-swift)
 
 ### Functions
 
