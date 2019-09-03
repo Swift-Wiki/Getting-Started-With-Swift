@@ -37,10 +37,10 @@ High Level Overviews
 - [ ] [Learning Swift - Second Edition](https://www.amazon.com/Learning-Swift-Second-Andrew-Wagner/dp/1785887513) – A little out dated, but still a valuable introduction into the most important parts of Swift and good programming practices.
 - [ ] [Swift Programming: The Big Nerd Ranch Guide](https://www.bignerdranch.com/books/swift-programming-the-big-nerd-ranch-guide-second-edition/) – Whether you’re new to programming or an experienced developer, Swift Programming: The Big Nerd Ranch Guide will teach you what you need to know about Apple’s newest language.
 
-### If you have an iPad
+### iPad Apps
 - [ ] [Swift Playgrounds](https://www.apple.com/swift/playgrounds/) – An iPad app full of tutorials for learning Swift
 
-### If you have an iPhone
+### iPhone Apps
 - [ ] [Unwrap](https://apps.apple.com/us/app/unwrap/id1440611372) – App to learn Swift right on  your iPhone
 
 ### Blogs
