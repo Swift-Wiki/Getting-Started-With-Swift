@@ -45,6 +45,7 @@ High Level Overviews
 - [ ] [Unwrap](https://apps.apple.com/us/app/unwrap/id1440611372) – App to learn Swift right on  your iPhone
 
 ### Blogs
+- [ ] [100 Days of Swift](https://www.hackingwithswift.com/100)
 - [ ] [Getting Started with Swift](https://drewag.me/posts/2014/07/13/getting-started-with-swift) – A quick overview of core concepts you need to learn.
 
 ### Videos
