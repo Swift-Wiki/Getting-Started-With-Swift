@@ -44,3 +44,12 @@ Debugging
 We almost never write code perfectly the first time. Diagnosing and fixing bugs is a critical skill for any developer.
 
 - [ ] [WWDC Debugging Videos](https://developer.apple.com/videos/developer-tools/debugging) – Videos about debugging directly from Apple developers
+
+Recommended Practice Projects
+------------
+
+- [ ] Checklist App (Data storage) – Add items to a list and then check them off
+- [ ] Calculator (Custom UI)
+- [ ] Basic Reddit Viewer (Network API usage) – Or any other publically available API to read from
+- [ ] Solitaire (Custom UI and Animations) – The classic one person card game
+- [ ] Memorable Locations (MapKit for advanced API practice, Data Storage) – Allow recording your current location with a name a description.
